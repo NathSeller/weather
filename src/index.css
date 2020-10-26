@@ -166,6 +166,7 @@ main {
   .cover {
     position: relative;
     top: 150px;
+    width: 80%;
   }
   .filler {
     font-size: 30px;
