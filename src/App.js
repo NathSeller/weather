@@ -73,7 +73,7 @@ function App() {
         </div>
         ) : (
           <div className='cover'>
-            <div>
+            <div className='filler'>
             Use the search bar at the top to check the weather!
             </div>
           </div>
