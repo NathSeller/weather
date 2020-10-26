@@ -11,7 +11,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "^3.4.3"
   },
-  "homepage": "https://NathSeller.github.io/weather-app",
+  "homepage": "https://NathSeller.github.io/weather",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
