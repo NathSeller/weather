@@ -152,7 +152,7 @@ main {
 
 @media only screen and (max-width: 700px) {
   main {
-    padding: 20px;
+    padding: 17px;
   }
   .search-box {
     width: 100%;
@@ -160,7 +160,7 @@ main {
   }
   .search-box .search-bar {
     width: 100%;
-    margin-top: -20px;
+    margin-top: -17px;
   }
   .cover {
     position: relative;
